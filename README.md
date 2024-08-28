@@ -1,4 +1,4 @@
-## API CRUD (Createm, Read, Update, Delete) with express.js and mysql
+# API CRUD (Createm, Read, Update, Delete) with express.js and mysql
 How to use?
 1. run command `git clone https://github.com/DaichiKei/API-backend-CRUD.git`
 2. run command `cd API-backend-CRUD`
